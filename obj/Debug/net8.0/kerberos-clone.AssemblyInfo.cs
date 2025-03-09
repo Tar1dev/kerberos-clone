@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kerberos-clone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50bb5f4407ab47b67f9c2acddd5c7058aa849856")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e73d78dbe0c5095894efb6408ef92a9fb0bb1e76")]
 [assembly: System.Reflection.AssemblyProductAttribute("kerberos-clone")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kerberos-clone")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

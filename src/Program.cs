@@ -6,7 +6,8 @@ namespace Kerberos
     {
         static void Main(string[] args) 
         {
-            Console.WriteLine("Hello World !");
+            KerberosClient kerberosClient = new KerberosClient("tar1dev", "sylvène123");
+            Console.WriteLine(kerberosClient.secret);
         }
     }
 }
