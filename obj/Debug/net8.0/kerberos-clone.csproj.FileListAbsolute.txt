@@ -1,0 +1,15 @@
+C:\Users\Nils\Desktop\kerberos-clone\bin\Debug\net8.0\kerberos-clone.exe
+C:\Users\Nils\Desktop\kerberos-clone\bin\Debug\net8.0\kerberos-clone.deps.json
+C:\Users\Nils\Desktop\kerberos-clone\bin\Debug\net8.0\kerberos-clone.runtimeconfig.json
+C:\Users\Nils\Desktop\kerberos-clone\bin\Debug\net8.0\kerberos-clone.dll
+C:\Users\Nils\Desktop\kerberos-clone\bin\Debug\net8.0\kerberos-clone.pdb
+C:\Users\Nils\Desktop\kerberos-clone\obj\Debug\net8.0\kerberos-clone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nils\Desktop\kerberos-clone\obj\Debug\net8.0\kerberos-clone.AssemblyInfoInputs.cache
+C:\Users\Nils\Desktop\kerberos-clone\obj\Debug\net8.0\kerberos-clone.AssemblyInfo.cs
+C:\Users\Nils\Desktop\kerberos-clone\obj\Debug\net8.0\kerberos-clone.csproj.CoreCompileInputs.cache
+C:\Users\Nils\Desktop\kerberos-clone\obj\Debug\net8.0\kerberos-clone.sourcelink.json
+C:\Users\Nils\Desktop\kerberos-clone\obj\Debug\net8.0\kerberos-clone.dll
+C:\Users\Nils\Desktop\kerberos-clone\obj\Debug\net8.0\refint\kerberos-clone.dll
+C:\Users\Nils\Desktop\kerberos-clone\obj\Debug\net8.0\kerberos-clone.pdb
+C:\Users\Nils\Desktop\kerberos-clone\obj\Debug\net8.0\kerberos-clone.genruntimeconfig.cache
+C:\Users\Nils\Desktop\kerberos-clone\obj\Debug\net8.0\ref\kerberos-clone.dll
